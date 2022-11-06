@@ -21,6 +21,8 @@ pipで以下をインストール済み
 * flake8
 * autopep8
 * python-dotenv
+* fastapi
+* uvicorn
 
 以下のVisual Studio Code 拡張をインストール
 
