@@ -28,4 +28,5 @@ RUN apt-get install -y vim less gcc
 
 RUN pip install --upgrade pip
 RUN pip install --upgrade setuptools
-RUN pip install flake8 autopep8 python-dotenv
+RUN pip install flake8 autopep8
+RUN pip install python-dotenv fastapi uvicorn
