@@ -11,6 +11,7 @@
     "vscode": {
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
+        "EditorConfig.EditorConfig",
         "ms-python.python",
         "ms-python.flake8",
         "ms-python.autopep8",

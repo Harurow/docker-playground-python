@@ -26,6 +26,7 @@ pipで以下をインストール済み
 
 以下のVisual Studio Code 拡張をインストール
 
+* EditorConfig.EditorConfig
 * ms-python.python
 * ms-python.flake8
 * ms-python.autopep8
