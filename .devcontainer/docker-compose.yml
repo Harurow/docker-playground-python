@@ -5,9 +5,9 @@ services:
     hostname: 'python'
     build: .
     restart: always
-    working_dir: '/opt'
+    working_dir: '/workspace'
     tty: true
     volumes:
       - type: bind
-        source: ../opt
-        target: /opt
+        source: ../workspace
+        target: /workspace

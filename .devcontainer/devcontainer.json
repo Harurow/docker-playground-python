@@ -2,7 +2,7 @@
   "name": "docker-playground - python",
   "dockerComposeFile": "docker-compose.yml",
   "service": "playground",
-  "workspaceFolder": "/opt",
+  "workspaceFolder": "/workspace",
   "remoteUser": "vscode",
 
   // Configure tool-specific properties.
